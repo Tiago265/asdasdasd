@@ -1,0 +1,91 @@
+body{
+    background-color: #000;
+    font-family: sans-serif;
+    text-align: center;
+}
+h1{
+    color: #fefefe;
+    margin: 50px;
+}
+h1:hover{
+    text-decoration: underline;
+    transition-duration: 0.5s;
+}
+.cad{
+    border-style: solid;
+    border-color: #fefefe;
+    border-radius: 10px;
+    width: 20%;
+    padding: 20px;
+    margin: 0px 730px;
+    border-width: 15px;
+    background-color: #fefefe;
+    box-shadow: #666;
+}
+.cad input{
+    border-radius: 10px;
+    width: 60%;
+    border-color: #666;
+    box-shadow: blanchedalmond;
+    height: 50px;
+    font-size: 20px;
+}
+.cad button{
+    border-radius: 10px;
+    width: 80%;
+    border-color: #666;
+    box-shadow: blanchedalmond;
+    height: 50px;
+    font-size: 20px;
+    background-color: red;
+}
+.cad button:hover{
+    scale: 1.1;
+    transition-duration: 0.5s;
+    background-color: aqua;
+}
+.cad input:hover{
+    border-color: black;
+    background-color: #666;
+    color: #fefefe;
+    transition-duration: 0.5s;
+}
+.login{
+    border-style: solid;
+    border-color: #fefefe;
+    border-radius: 10px;
+    width: 20%;
+    padding: 20px;
+    margin: 0px 730px;
+    border-width: 15px;
+    background-color: #fefefe;
+    box-shadow: #666;
+}
+.login input{
+    border-radius: 10px;
+    width: 60%;
+    border-color: #666;
+    box-shadow: blanchedalmond;
+    height: 50px;
+    font-size: 20px;
+}
+.login button{
+    border-radius: 10px;
+    width: 80%;
+    border-color: #666;
+    box-shadow: blanchedalmond;
+    height: 50px;
+    font-size: 20px;
+    background-color: red;
+}
+.login button:hover{
+    scale: 1.1;
+    transition-duration: 0.5s;
+    background-color: aqua;
+}
+.login input:hover{
+    border-color: black;
+    background-color: #666;
+    color: #fefefe;
+    transition-duration: 0.5s;
+}
